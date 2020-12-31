@@ -13,6 +13,10 @@ Instructions:
 
 None. 
 
+Note: 
+
+The "Submit Email" submit button doesn't work due to its action attribute not providing the correction action.
+
 Side Note: 
 
 If you have any suggestions on how to improve my code, or how I can or what I can do to become a better web developer, feel free to send me a message. 
